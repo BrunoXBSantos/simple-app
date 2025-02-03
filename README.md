@@ -6,9 +6,6 @@ Welcome to the Dotmoovs backend technical interview! This assessment is designed
 1. **NestJS Setup Task**: A practical exercise to set up and run a simple NestJS application
 2. **Algorithmic Problems**: Three programming challenges to assess your problem-solving skills
 3. **Backend Development Concepts**: Five questions to assess your understanding of backend development concepts
-
-You are free to use any programming language for the algorithmic problems and can consult documentation/resources as needed.
-
 ---
 
 ## Part 1: NestJS Setup
