@@ -44,9 +44,7 @@ class ShoppingCart {
     private discount: number = 0;
 
     addItem(product: Product) {
-        if (product.price > 0) {
-            this.items.push(product);
-        }
+        this.items.push(product);
     }
 
     applyDiscount(discount: number) {
